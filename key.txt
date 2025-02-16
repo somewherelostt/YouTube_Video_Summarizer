@@ -1,2 +1,0 @@
-%%writefile .env
-GEMINI_API_KEY=AIzaSyDHWfDZM0UMgi7YuBbGztiP1jty7MwHGfk
